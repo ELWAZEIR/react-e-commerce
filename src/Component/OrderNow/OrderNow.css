@@ -1,0 +1,55 @@
+
+.oorder-now-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .oorder-now-container h2 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+  }
+  
+  .oform-group {
+    margin-bottom: 15px;
+  }
+  
+  .oform-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .oform-group input,
+  .oform-group textarea,
+  .oform-group select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .oform-group textarea {
+    height: 100px;
+  }
+  
+  .obtn-submit {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    text-align: center;
+  }
+  
+  .obtn-submit:hover {
+    background-color: #0056b3;
+  }
+  

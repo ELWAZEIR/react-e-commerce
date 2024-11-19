@@ -1,0 +1,42 @@
+/* FooterCard.css */
+
+.footer-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px; /* Reduced padding */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    width: 150px; /* Adjust width to be smaller */
+    margin: 0 auto; /* Center horizontally */
+  }
+  
+  .footer-card-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .footer-card button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 15px; /* Reduced padding */
+    margin: 0 3px; /* Adjusted margin */
+    font-size: 14px; /* Smaller font size */
+    cursor: pointer;
+  }
+  
+  .footer-card button:hover {
+    background-color: #0056b3;
+  }
+  
+  .footer-card p {
+    font-size: 16px; /* Smaller font size */
+    font-weight: bold;
+    margin: 5px 0; /* Adjusted margin */
+  }
+  
